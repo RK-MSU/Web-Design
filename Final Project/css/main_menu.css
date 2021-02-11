@@ -1,0 +1,31 @@
+
+#main_menu
+{
+	background-color: purple;
+	margin-top: 20px;
+	padding: 15px;
+	box-shadow: 5px 5px 15px black;
+	border-radius: 10px;
+	display: inline-block;
+	width: 100%;
+}
+
+
+#main_menu a
+{
+	padding: 15px;
+	font-size: 20px;
+	margin: 0px;
+}
+
+#main_menu a:link, a:active, a:visited
+{
+	text-decoration: none;
+	color: white;
+
+}
+#main_menu a:hover
+{
+	background-color: white;
+	color: purple;
+}

@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/RK3lly/Google Drive/Montana State University/Programming/Web Design/Lab3/.metadata/.plugins/org.eclipse.jdt.core
